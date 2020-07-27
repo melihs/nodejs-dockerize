@@ -11,6 +11,8 @@ $ docker run -d -p 8080:3000 --name hello-docker-app melih/node:hello-docker
 ```
 ## Open browser 
  http://localhost:8080/
+ 
+ ![console-based node.js application](demo.png)
 
 
 
